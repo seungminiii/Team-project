@@ -1,0 +1,9 @@
+﻿  허들.c
+C:\Users\User\Desktop\팀프로젝트\team project\team project\허들.c(166,17): warning C4098: 'draw_koko': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\팀프로젝트\team project\team project\허들.c(170,5): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\User\Desktop\팀프로젝트\team project\team project\허들.c(260,13): warning C4098: 'draw_koko': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\팀프로젝트\team project\team project\허들.c(309,13): warning C4098: '지렁': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\팀프로젝트\team project\team project\허들.c(336,17): warning C4098: 'draw_tree': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\팀프로젝트\team project\team project\허들.c(353,13): warning C4098: 'draw_tree': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\팀프로젝트\team project\team project\허들.c(445,9): warning C4013: 'over'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  team project.vcxproj -> C:\Users\User\Desktop\팀프로젝트\team project\x64\Debug\team project.exe
